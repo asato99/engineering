@@ -21,7 +21,24 @@
     margin: 0 20px;
   }
 
+  .main-contents {
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .guide-sentence {
+    text-align: center;
+  }
+
+  .apply-block {
+    margin-top: 30px;
+    text-align: center;
+  }
+
   .apply-button {
     margin: 0 auto;
   }
+
   

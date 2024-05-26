@@ -10,3 +10,8 @@ header .headline{
 th {
 	padding: 5px 5px 5px 5px;
 }
+.required {
+	color: red;
+	margin-left: 3px;
+	margin-right: 3px;
+}
