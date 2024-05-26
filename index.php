@@ -9,8 +9,9 @@
 <!-- header -->
 <header>
   <h1 class="headline">
-    <a>サンプルのサイト</a>
+    <a>現役エンジニアによる無料のプログラミング指導</a>
   </h1>
+</header>
   <ul class="nav-list">
     <li class="nav-list-item">
       <a>Home</a>
@@ -18,6 +19,8 @@
     <li class="nav-list-item">About</li>
     <li class="nav-list-item">Topic</li>
   </ul>
-</header>
+  <div style="text-align: center;">
+    <button class="apply-button" onclick="location.href='apply.php'">お申込み</button>
+  </div>
 </body>
 </html>
